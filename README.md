@@ -1,17 +1,9 @@
 <!-- Header -->
 <div align="center">
 
-```
- _     _                         _           _  ___         _
-| | __| |___ _   _  ___  ___    | | _____   | |/ / |__   __ _(_)
-| |_  / \_ // | | |/ _ \/ _ \   | |/ / _` | | ' /| '_ \ / _` | |
-|___|_| /__/| |_| | (_) | (_)   |   < (_| | | . \| | | | (_| | |
-            \__,_|\___/ \___/   |_|\_\__,_| |_|\_\_| |_|\__,_|_|
-```
+**Trading System · EVM DeFi Protocol · Web3 Security**
 
-**Web3 Security Researcher · EVM Internals · DeFi Protocol Auditor**
-
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](#)
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://x.com/CoderKct95075)
 [![Ethereum](https://img.shields.io/badge/-Ethereum-3C3C3D?style=flat-square&logo=ethereum&logoColor=white)](#)
 
 </div>
