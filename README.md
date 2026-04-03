@@ -1,22 +1,4 @@
 <!-- Header Banner -->
-<div align="center">
-
-```
- _     _                         _           _  ___         _ 
-| | __| |___ _   _  ___  ___ ___| | __ _  _ | |/ / |__   __ _(_)
-| |_  / \_ // | | |/ _ \/ _ \_ _| |/ /| |/ _` | ' /| '_ \ / _` | |
-|___|_| /__/| |_| | (_) | (_) || |   < | | (_| | . \| | | | (_| | |
-            \__,_|\___/ \___/ |_|_|\_\|_|\__,_|_|\_\_| |_|\__,_|_|
-```
-
-**Web3 Security Researcher · EVM Internals · DeFi Protocol Auditor**
-
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/)
-[![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white)](https://t.me/)
-
-</div>
-
----
 
 ## `$ whoami`
 
@@ -73,13 +55,13 @@
 
 ## `$ ls repos/`
 
-| Repository | Description | Lang |
-|---|---|---|
-| [simple-distributed-file-system](https://github.com/liangzhongkai/simple-distributed-file-system---mit2012spring6.824) | MIT 6.824 distributed file system | C++ |
-| [ds_bench](https://github.com/liangzhongkai/ds_bench) | Benchmarks for data structures across scenarios | C++ |
-| [cpu](https://github.com/liangzhongkai/cpu) | Pipeline, BTB, cache coherence, TLB & MMU | C++ |
-| [nvim-config](https://github.com/liangzhongkai/nvim-config) | Personal Neovim setup | Lua |
-| [lua-code-analysis](https://github.com/liangzhongkai/lua-code-analysis) | Lua source code analysis | C |
+| Repository                                                                                                             | Description                                     | Lang |
+| ---------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------- | ---- |
+| [simple-distributed-file-system](https://github.com/liangzhongkai/simple-distributed-file-system---mit2012spring6.824) | MIT 6.824 distributed file system               | C++  |
+| [ds_bench](https://github.com/liangzhongkai/ds_bench)                                                                  | Benchmarks for data structures across scenarios | C++  |
+| [cpu](https://github.com/liangzhongkai/cpu)                                                                            | Pipeline, BTB, cache coherence, TLB & MMU       | C++  |
+| [nvim-config](https://github.com/liangzhongkai/nvim-config)                                                            | Personal Neovim setup                           | Lua  |
+| [lua-code-analysis](https://github.com/liangzhongkai/lua-code-analysis)                                                | Lua source code analysis                        | C    |
 
 ---
 
@@ -108,6 +90,6 @@ quote = "The map is not the territory — read the source code."
 
 **Open to collabs on DeFi tooling & smart contract security research**
 
-*"First principles over frameworks. Source code over documentation."*
+_"First principles over frameworks. Source code over documentation."_
 
 </div>
