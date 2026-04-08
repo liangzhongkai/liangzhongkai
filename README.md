@@ -63,31 +63,31 @@
 <!--START_SECTION:stats-->
 ```
 ┌──────────────────────────────────────────────────────┐
-│  GITHUB STATS  ·  2026-04-07 04:33 UTC
+│  GITHUB STATS  ·  2026-04-08 04:36 UTC
 ├──────────────────────────────────────────────────────┤
-│  Public repos   39      Stars        6       │
+│  Public repos   37      Stars        6       │
 │  Followers      8       Following    33      │
-│  Commits(year)  173     PRs          0       │
-│  Commits(30d)   64      Issues       12      │
+│  Commits(year)  177     PRs          0       │
+│  Commits(30d)   59      Issues       12      │
 └──────────────────────────────────────────────────────┘
 ```
 
 **Top languages**
 ```
-  C++           ██████████████████  5 repos
-  C             ██████████████░░░░  4 repos
-  JavaScript    ███████████░░░░░░░  3 repos
-  Rust          ███████░░░░░░░░░░░  2 repos
-  Solidity      ███████░░░░░░░░░░░  2 repos
+  C++           ██████████████████  4 repos
+  C             ██████████████████  4 repos
+  Rust          █████████░░░░░░░░░  2 repos
+  Solidity      █████████░░░░░░░░░  2 repos
+  JavaScript    █████████░░░░░░░░░  2 repos
 ```
 
 **Recently active repos**
 ```
-  ◈ rust-demo                        ★0   [Rust]  2026-04-06
-  ◈ liangzhongkai                    ★1   [Python]  2026-04-06
+  ◈ liangzhongkai.github.io          ★0   [—]  2026-04-08
+  ◈ rust-demo                        ★0   [Rust]  2026-04-07
+  ◈ liangzhongkai                    ★1   [Python]  2026-04-07
   ◈ solidity-foundry                 ★1   [Solidity]  2026-04-02
   ◈ solidity-uniswap-v3              ★0   [Solidity]  2026-03-30
-  ◈ factors-ml                       ★0   [—]  2026-02-16
 ```
 <!--END_SECTION:stats-->
 
