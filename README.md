@@ -63,12 +63,12 @@
 <!--START_SECTION:stats-->
 ```
 ┌──────────────────────────────────────────────────────┐
-│  GITHUB STATS  ·  2026-04-11 04:22 UTC
+│  GITHUB STATS  ·  2026-04-12 04:46 UTC
 ├──────────────────────────────────────────────────────┤
 │  Public repos   37      Stars        6       │
-│  Followers      8       Following    35      │
-│  Commits(year)  202     PRs          0       │
-│  Commits(30d)   72      Issues       12      │
+│  Followers      8       Following    37      │
+│  Commits(year)  214     PRs          0       │
+│  Commits(30d)   83      Issues       13      │
 └──────────────────────────────────────────────────────┘
 ```
 
@@ -83,9 +83,9 @@
 
 **Recently active repos**
 ```
-  ◈ rust-demo                        ★0   [Rust]  2026-04-10
-  ◈ liangzhongkai.github.io          ★0   [CSS]  2026-04-10
-  ◈ liangzhongkai                    ★1   [Python]  2026-04-10
+  ◈ liangzhongkai.github.io          ★0   [HTML]  2026-04-12
+  ◈ rust-demo                        ★0   [Rust]  2026-04-11
+  ◈ liangzhongkai                    ★1   [Python]  2026-04-11
   ◈ solidity-foundry                 ★1   [Solidity]  2026-04-02
   ◈ solidity-uniswap-v3              ★0   [Solidity]  2026-03-30
 ```
