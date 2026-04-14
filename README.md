@@ -13,7 +13,7 @@
 ## `$ whoami`
 
 ```bash
-> Name       : lzhkai (liangzhongkai)
+> Name       : Kevin Leung
 > Focus      : Smart Contract Security · EVM Internals · DeFi Protocols
 > Stack      : Solidity · Foundry · C++ · Rust (learning)
 > Goal       : Competitive security auditor @ Code4rena / Sherlock
@@ -29,7 +29,7 @@
 ![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white)
 ![Foundry](https://img.shields.io/badge/Foundry-EE4B2B?style=flat-square&logoColor=white)
 ![EVM](https://img.shields.io/badge/EVM%20Internals-3C3C3D?style=flat-square&logo=ethereum&logoColor=white)
-![Uniswap](https://img.shields.io/badge/Uniswap%20V2%2FV3-FF007A?style=flat-square&logo=uniswap&logoColor=white)
+![Uniswap](https://img.shields.io/badge/Uniswap%20V2%2FV3%2FV4-FF007A?style=flat-square&logo=uniswap&logoColor=white)
 ![DeFi](https://img.shields.io/badge/DeFi%20Protocols-00D395?style=flat-square&logoColor=white)
 
 **Systems Programming**
