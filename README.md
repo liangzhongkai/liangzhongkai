@@ -3,7 +3,7 @@
 
 **Trading System · EVM DeFi Protocol · Web3 Security**
 
-[![X](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://x.com/CoderKct95075)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=X&logoColor=white)](https://x.com/CoderKct95075)
 [![Ethereum](https://img.shields.io/badge/-Ethereum-3C3C3D?style=flat-square&logo=ethereum&logoColor=white)](#)
 
 </div>
