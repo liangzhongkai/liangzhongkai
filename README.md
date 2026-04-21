@@ -15,9 +15,9 @@
 ```bash
 > Name       : Kevin Leung
 > Focus      : Smart Contract Security · EVM Internals · DeFi Protocols
-> Stack      : Solidity · Foundry · C++ · Rust (learning)
+> Stack      : Solidity · Foundry · C++ (Low-Latency Trading) · Rust
 > Goal       : Competitive security auditor @ Code4rena / Sherlock
-> Now        : Uniswap V3 deep dive · Exploit reproduction · CTF grinding
+> Now        : Uniswap V2/V3/V4 deep dive · Exploit reproduction · CTF grinding
 ```
 
 ---
@@ -40,6 +40,17 @@
 
 ---
 
+## `$ cat cpp_background.txt`
+
+```txt
+2025/08-2025/10 · Trading System C++ Engineer
+2023/01-2025/04 · EQ Consulting · Senior C++ Engineer
+2017/12-2021/12 · AP Capital Management (Hong Kong) · Senior C++ Engineer
+2013/08-2017/10 · Game Backend C++ Engineer
+```
+
+---
+
 ## `$ cat audit_roadmap.md`
 
 ```
@@ -49,7 +60,6 @@
 [✓] Solidity security patterns — reentrancy, CEI, flash loans, proxies
 [▸] Damn Vulnerable DeFi CTFs              [in progress]
 [▸] ETHGlobal hackathon — DeFi/security tooling  [upcoming]
-[○] Foundry fuzz & invariant testing
 [○] Historical exploit reproduction (DeFiHackLabs)
 [○] Code4rena / Sherlock competitive audits
 [○] Public audit portfolio
