@@ -73,12 +73,12 @@
 <!--START_SECTION:stats-->
 ```
 ┌──────────────────────────────────────────────────────┐
-│  GITHUB STATS  ·  2026-05-08 04:53 UTC
+│  GITHUB STATS  ·  2026-05-09 05:21 UTC
 ├──────────────────────────────────────────────────────┤
 │  Public repos   38      Stars        6       │
 │  Followers      8       Following    42      │
-│  Commits(year)  268     PRs          0       │
-│  Commits(30d)   94      Issues       13      │
+│  Commits(year)  269     PRs          0       │
+│  Commits(30d)   81      Issues       13      │
 └──────────────────────────────────────────────────────┘
 ```
 
@@ -86,17 +86,17 @@
 ```
   C++           ██████████████████  4 repos
   C             ██████████████████  4 repos
-  Solidity      █████████░░░░░░░░░  2 repos
   Rust          █████████░░░░░░░░░  2 repos
+  Solidity      █████████░░░░░░░░░  2 repos
   JavaScript    █████████░░░░░░░░░  2 repos
 ```
 
 **Recently active repos**
 ```
+  ◈ rust-demo                        ★0   [Rust]  2026-05-08
+  ◈ liangzhongkai                    ★1   [Python]  2026-05-08
   ◈ solidity-foundry                 ★1   [Solidity]  2026-05-07
-  ◈ liangzhongkai                    ★1   [Python]  2026-05-07
   ◈ liangzhongkai.github.io          ★0   [HTML]  2026-05-07
-  ◈ rust-demo                        ★0   [Rust]  2026-05-04
   ◈ audit-checklist                  ★0   [—]  2026-05-02
 ```
 <!--END_SECTION:stats-->
