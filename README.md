@@ -14,10 +14,10 @@
 
 ```bash
 > Name       : Kevin Leung
-> Focus      : Smart Contract Security · EVM Internals · DeFi Protocols
-> Stack      : Solidity · Foundry · C++ (Low-Latency Trading) · Rust
+> Focus      : Trading System · Smart Contract Security · EVM Internals · DeFi Protocols
+> Stack      : C++ (Low-Latency Trading) · Solidity · Foundry · Rust
 > Goal       : Competitive security auditor @ Code4rena / Sherlock
-> Now        : Uniswap V2/V3/V4 deep dive · Exploit reproduction · CTF grinding
+> Now        : Exploit reproduction · CTF grinding
 ```
 
 ---
@@ -58,9 +58,9 @@
 [✓] EVM deep dive — account model, storage layout, EIP-1967, EIP-1153
 [✓] Safe smart account architecture — proxy, delegatecall, modules
 [✓] Solidity security patterns — reentrancy, CEI, flash loans, proxies
-[▸] Damn Vulnerable DeFi CTFs              [in progress]
+[✓] Damn Vulnerable DeFi
+[·] Historical exploit reproduction (DeFiHackLabs)  [in progress]
 [▸] ETHGlobal hackathon — DeFi/security tooling  [upcoming]
-[○] Historical exploit reproduction (DeFiHackLabs)
 [○] Code4rena / Sherlock competitive audits
 [○] Public audit portfolio
 ```
