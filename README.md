@@ -86,12 +86,12 @@
 <!--START_SECTION:stats-->
 ```
 ┌──────────────────────────────────────────────────────┐
-│  GITHUB STATS  ·  2026-05-27 06:20 UTC
+│  GITHUB STATS  ·  2026-05-28 03:52 UTC
 ├──────────────────────────────────────────────────────┤
 │  Public repos   40      Stars        6       │
 │  Followers      8       Following    42      │
-│  Commits(year)  288     PRs          0       │
-│  Commits(30d)   35      Issues       13      │
+│  Commits(year)  291     PRs          0       │
+│  Commits(30d)   37      Issues       13      │
 └──────────────────────────────────────────────────────┘
 ```
 
@@ -106,11 +106,11 @@
 
 **Recently active repos**
 ```
+  ◈ liangzhongkai                    ★1   [Python]  2026-05-28
+  ◈ did                              ★0   [TypeScript]  2026-05-28
+  ◈ solidity-foundry                 ★1   [Solidity]  2026-05-27
   ◈ ai-agent-hook                    ★0   [Solidity]  2026-05-27
-  ◈ solidity-foundry                 ★1   [Solidity]  2026-05-26
-  ◈ liangzhongkai                    ★1   [Python]  2026-05-26
   ◈ rust-demo                        ★0   [Rust]  2026-05-24
-  ◈ did                              ★0   [TypeScript]  2026-05-22
 ```
 <!--END_SECTION:stats-->
 
