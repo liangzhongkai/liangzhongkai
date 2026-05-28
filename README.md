@@ -67,6 +67,19 @@
 
 ---
 
+## `$ cat zkp.md`
+
+```
+[✓] ZK fundamentals — completeness, soundness, zero-knowledge
+[✓] SNARK vs STARK — trusted setup, FRI, proof size trade-offs
+[·] Circom / Groth16 circuit design  [in progress]
+[○] PLONK / Halo2 / Noir
+[○] zkEVM & rollup internals (zkSync, Scroll, Polygon zkEVM)
+[○] ZK application audits — bridges, privacy pools, proof verification
+```
+
+---
+
 ## `$ ./fetch_stats.sh`
 
 <!-- 以下区域由 GitHub Actions 每日自动更新，请勿手动修改 -->
