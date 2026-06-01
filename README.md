@@ -70,7 +70,7 @@
 ## `$ cat zkp.md`
 
 ```
-[✓] ZK fundamentals — completeness, soundness, zero-knowledge
+[✓] ZK fundamentals — completeness, soundness, zero-knowledge-puzzles
 [✓] SNARK vs STARK — trusted setup, FRI, proof size trade-offs
 [·] Circom / Groth16 circuit design  [in progress]
 [○] PLONK / Halo2 / Noir
