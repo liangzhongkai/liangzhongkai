@@ -86,12 +86,12 @@
 <!--START_SECTION:stats-->
 ```
 ┌──────────────────────────────────────────────────────┐
-│  GITHUB STATS  ·  2026-06-02 06:41 UTC
+│  GITHUB STATS  ·  2026-06-03 06:52 UTC
 ├──────────────────────────────────────────────────────┤
 │  Public repos   41      Stars        6       │
 │  Followers      8       Following    42      │
 │  Commits(year)  299     PRs          0       │
-│  Commits(30d)   38      Issues       13      │
+│  Commits(30d)   37      Issues       13      │
 └──────────────────────────────────────────────────────┘
 ```
 
@@ -106,7 +106,7 @@
 
 **Recently active repos**
 ```
-  ◈ liangzhongkai                    ★1   [Python]  2026-06-01
+  ◈ liangzhongkai                    ★1   [Python]  2026-06-02
   ◈ rust-demo                        ★0   [Rust]  2026-05-30
   ◈ solidity-foundry                 ★1   [Solidity]  2026-05-29
   ◈ prophet-hook                     ★0   [Solidity]  2026-05-28
