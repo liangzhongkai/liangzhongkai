@@ -22,7 +22,7 @@
 
 ---
 
-## `$ cat skills.txt`
+## `$ cat skills.md`
 
 **Smart Contract & DeFi**
 
@@ -40,7 +40,7 @@
 
 ---
 
-## `$ cat cpp_background.txt`
+## `$ cat cpp_background.md`
 
 ```txt
 2025/08-2025/10 · Trading System C++ Engineer
