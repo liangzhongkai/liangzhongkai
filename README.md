@@ -54,7 +54,7 @@
 ## `$ cat audit_roadmap.md`
 
 ```
-[✓] Uniswap V2 / V3 internals — sqrtPrice, tick, feeGrowth, tick bitmap
+[✓] Uniswap V2 / V3 / V4 internals — sqrtPrice, tick, feeGrowth, tick bitmap
 [✓] EVM deep dive — account model, storage layout, EIP-1967, EIP-1153
 [✓] Safe smart account architecture — proxy, delegatecall, modules
 [✓] Solidity security patterns — reentrancy, CEI, flash loans, proxies
