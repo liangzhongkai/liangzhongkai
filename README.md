@@ -15,8 +15,8 @@
 ```bash
 > Name       : Kevin Leung
 > Focus      : Trading System · Smart Contract Security · EVM Internals · DeFi Protocols
-> Stack      : C++ (Low-Latency Trading) · Solidity · Foundry · Rust
-> Goal       : Competitive security auditor @ Code4rena / Sherlock
+> Stack      : C++ (Low-Latency Trading) · Solidity · Foundry · Rust · Python
+> Goal       : Quantitative Trading · Competitive security auditor @ Code4rena / Sherlock
 > Now        : Exploit reproduction · CTF grinding
 ```
 
